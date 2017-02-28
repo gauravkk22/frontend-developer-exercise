@@ -17,7 +17,9 @@ The application should have the following architecture :
 - We are open to any architecture/pattern you follow.
 - Bonus marks if you can improve upon the design/add crazy animations/make it smooth
 
-## How to submit the application
+## The Data
+The data is available in the jedi.json file.
 
+## How to submit the application
 Please fork this repository and make leave a pull request.
 Thanks
